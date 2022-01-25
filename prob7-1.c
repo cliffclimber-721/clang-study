@@ -1,3 +1,5 @@
+// 입력한 숫자만큼 Hello World!를 찍어내는 코드 작성
+
 #include <stdio.h>
 
 int main(void){
